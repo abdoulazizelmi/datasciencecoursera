@@ -1,5 +1,5 @@
 
 
-## This is a R Markdown
+## This is a Markdown file
 
 
